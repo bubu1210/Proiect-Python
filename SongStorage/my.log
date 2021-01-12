@@ -1,0 +1,1469 @@
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:quit
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:Wrong Choice, try again
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 36, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rexha' at line 1
+Traceback (most recent call last):
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 504, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rexha' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 199, in search
+    mycursor.execute(stmt1)
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\cursor_cext.py", line 264, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 508, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rexha' at line 1
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rexha' at line 1
+Traceback (most recent call last):
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 504, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rexha' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 199, in search_song
+    mycursor.execute(stmt1)
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\cursor_cext.py", line 264, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 508, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rexha' at line 1
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rexha' at line 1
+Traceback (most recent call last):
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 504, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rexha' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 199, in search_song
+    mycursor.execute(stmt1)
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\cursor_cext.py", line 264, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 508, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rexha' at line 1
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+INFO:root:search
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='' and  =''  and  =''' at line 1
+Traceback (most recent call last):
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 504, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='' and  =''  and  =''' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 214, in search_song
+    mycursor.execute(stmt2)
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\cursor_cext.py", line 264, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 508, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='' and  =''  and  =''' at line 1
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='' and  =''' at line 1
+Traceback (most recent call last):
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 504, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='' and  =''' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 199, in search_song
+    mycursor.execute(stmt2)
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\cursor_cext.py", line 264, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 508, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '='' and  =''' at line 1
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:1054 (42S22): Unknown column 'tah_list' in 'where clause'
+Traceback (most recent call last):
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 504, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Unknown column 'tah_list' in 'where clause'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 199, in search_song
+    mycursor.execute(stmt2)
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\cursor_cext.py", line 264, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 508, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'tah_list' in 'where clause'
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 34, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:search
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:create_save_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:1054 (42S22): Unknown column 'artist_list' in 'where clause'
+Traceback (most recent call last):
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 504, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Unknown column 'artist_list' in 'where clause'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 228, in create_save_list
+    mycursor.execute(stmt2)
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\cursor_cext.py", line 264, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 508, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'artist_list' in 'where clause'
+INFO:root:create_save_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:1054 (42S22): Unknown column 'tag_name' in 'where clause'
+Traceback (most recent call last):
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 504, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Unknown column 'tag_name' in 'where clause'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 230, in create_save_list
+    mycursor.execute(stmt2)
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\cursor_cext.py", line 264, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 508, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'tag_name' in 'where clause'
+INFO:root:create_save_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/Desktop\\Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:create_save_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:create_save_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:create_save_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:1054 (42S22): Unknown column 'tag_name' in 'where clause'
+Traceback (most recent call last):
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 504, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Unknown column 'tag_name' in 'where clause'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 230, in create_save_list
+    mycursor.execute(stmt2)
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\cursor_cext.py", line 264, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 508, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'tag_name' in 'where clause'
+INFO:root:create_save_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+INFO:root:Folderul a fost deja creat
+INFO:root:create_save_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=''' at line 1
+Traceback (most recent call last):
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 504, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=''' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 230, in create_save_list
+    mycursor.execute(stmt2)
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\cursor_cext.py", line 264, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\bubux\AppData\Local\Programs\Python\Python38\lib\site-packages\mysql\connector\connection_cext.py", line 508, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=''' at line 1
+INFO:root:create_save_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+INFO:root:Folderul a fost deja creat
+INFO:root:create_save_list
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/zipfolder'
+INFO:root:Folderul a fost deja creat
+INFO:root:create_save_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:log_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+INFO:root:log_list
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
+DEBUG:root:Debug message
+INFO:root:Info message
+ERROR:root:Error Message
+ERROR:root:[WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+Traceback (most recent call last):
+  File "C:/Users/bubux/PycharmProjects/SongStorage/main.py", line 35, in create_directory
+    os.mkdir(path, mode=0o777,dir_fd=None)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'C:/Users/bubux/PycharmProjects/SongStorage/Storage'
+INFO:root:Folderul a fost deja creat
