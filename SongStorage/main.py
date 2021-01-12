@@ -95,3 +95,39 @@ def add_song():
         mycursor.close()
 
 
+def delete_song():
+    id_to_be_deleted = input("ID to be deleted: ")
+    mycursor = mydb.cursor()
+    try:
+        stmt1 = "SELECT file_name, extension_type FROM songs WHERE ID = " + id_to_be_deleted
+        mycursor.execute(stmt1)
+        myresult = mycursor.fetchall()
+        for row in myresult:
+            song_to_be_deleted = row[0] + "." + row[1]
+            print(song_to_be_deleted)
+            to_be_deleted = destination + song_to_be_deleted
+            try:
+                if os.path.exists(to_be_deleted):
+                    os.remove(to_be_deleted)
+                    print("File deleted")
+                else:
+                    print("The file does not exist")
+            except OSError as e:
+                print("Error: %s : %s" % (to_be_deleted, e.strerror))
+                logging.exception(e)
+
+    except mysql.connector.Error as e:
+        print("Error reading data from MySQL table", e)
+        logging.exception(e)
+
+    try:
+        stmt2 = "DELETE from songs where id = " + id_to_be_deleted
+        mycursor.execute(stmt2)
+        mydb.commit()
+        print("Song removed from database")
+    except mysql.connector.Error as error:
+        print("Failed to delete record from table: {}".format(error))
+        mycursor.close()
+        logging.exception(error)
+
+
