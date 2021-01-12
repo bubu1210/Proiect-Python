@@ -217,3 +217,42 @@ def search_song():
         logging.exception(error)
 
 
+def create_save_list():
+    print("List of criteria for the zip: artist_name, song_name, extension_type")
+    column1 = input("column1: ")
+    criteria1 = input("criteria1: ")
+    column2 = input("column2: ")
+    criteria2 = input("criteria2: ")
+
+    mycursor = mydb.cursor()
+    try:
+        stmt2 = """select * from songs where %s ='%s' and %s ='%s' """ % (column1, criteria1, column2, criteria2)
+        mycursor.execute(stmt2)
+        records = mycursor.fetchall()
+        print("Total number of results is: ", mycursor.rowcount)
+
+        print("\nPrinting each result")
+
+        def return_files(response):
+            files = []
+            for row in response:
+                print("File Name = ", row[1])
+                rand =''.join(row[1]) + "." + ''.join(row[5])
+                files.append(rand)
+                source = "C:/Users/bubux/PycharmProjects/SongStorage/Storage/"
+                with zipfile.ZipFile(source+rand + ".zip", "w", zipfile.ZIP_DEFLATED) as zip_file:
+                    zip_file.write(source+rand)
+
+            return files
+
+        create_directory("zipfolder")
+        source = "C:/Users/bubux/PycharmProjects/SongStorage/Storage"
+        destination = "C:/Users/bubux/PycharmProjects/SongStorage/zipfolder"
+        files = return_files(records)
+
+
+    except mysql.connector.Error as error:
+        print("Failed to update record to database: {}".format(error))
+        mycursor.close()
+        logging.exception(error)
+
