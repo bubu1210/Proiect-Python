@@ -131,3 +131,59 @@ def delete_song():
         logging.exception(error)
 
 
+def modify_data():
+    id_to_be_modified = input("Song to be modified: ")
+    modify_file_name = input("Modify file name: ")
+    modify_artist_name = input("Modify artist name: ")
+    modify_song_name = input("Modify song name: ")
+    modify_release_date = input("Modify release date: ")
+    modify_extension_type = input("Modify extension type: ")
+    modify_tag_list = input("Modify tag list: ")
+
+    # Creating a cursor object using the cursor() method
+    mycursor = mydb.cursor()
+
+    try:
+        if len(modify_file_name) != 0:
+            stmt1 = "UPDATE SONGS SET file_name = %s WHERE ID = %s "
+            data1 = (modify_file_name, id_to_be_modified)
+            mycursor.execute(stmt1, data1)
+            mydb.commit()
+            print("File name modified")
+        if len(modify_artist_name) != 0:
+            stmt2 = "UPDATE SONGS SET artist_name = %s WHERE ID = %s "
+            data2 = (modify_artist_name, id_to_be_modified)
+            mycursor.execute(stmt2, data2)
+            mydb.commit()
+            print("Artist name modified")
+        if len(modify_song_name) != 0:
+            stmt3 = "UPDATE SONGS SET song_name = %s WHERE ID = %s "
+            data3 = (modify_song_name, id_to_be_modified)
+            mycursor.execute(stmt3, data3)
+            mydb.commit()
+            print("Song name modified")
+        if len(modify_release_date) != 0:
+            stmt4 = "UPDATE SONGS SET release_date = %s WHERE ID = %s "
+            data4 = (modify_release_date, id_to_be_modified)
+            mycursor.execute(stmt4, data4)
+            mydb.commit()
+            print("Release date modified")
+        if len(modify_extension_type) != 0:
+            stmt5 = "UPDATE SONGS SET extension_type = %s WHERE ID = %s "
+            data5 = (modify_extension_type, id_to_be_modified)
+            mycursor.execute(stmt5, data5)
+            mydb.commit()
+            print("Extension type modified")
+        if len(modify_tag_list) != 0:
+            stmt6 = "UPDATE SONGS SET tag_list = %s WHERE ID = %s "
+            data6 = (modify_tag_list, id_to_be_modified)
+            mycursor.execute(stmt6, data6)
+            mydb.commit()
+            print("Tag list modified")
+
+    except mysql.connector.Error as error:
+        print("Failed to update record to database: {}".format(error))
+        mycursor.close()
+        logging.exception(error)
+
+
