@@ -52,3 +52,46 @@ mydb = mysql.connector.connect(
 destination = "C:/Users/bubux/PycharmProjects/SongStorage/Storage"  # Destination directory
 
 
+def add_song():
+    file_name = input("File name: ")
+    artist_name = input("Artist name: ")
+    song_name = input("Song name: ")
+    release_date = input("Release date: ")
+    extension_type = input("Extension type: ")
+    tag_list = input("Tag list: ")
+    source = "C:/Users/bubux/PycharmProjects/SongStorage/Music" + file_name + "." + extension_type
+
+    # Copy file to Storage
+    try:
+        shutil.copy2(source, destination)
+        print("File copied")
+    except shutil.Error as error:
+        print(error)
+        logging.exception(error)
+
+    # Creating a cursor object using the cursor() method
+    mycursor = mydb.cursor()
+
+    # Preparing SQL query to INSERT a record into the database.
+    insert_stmt = (
+        "INSERT INTO SONGS(FILE_NAME, ARTIST_NAME, SONG_NAME, RELEASE_DATE, EXTENSION_TYPE, TAG_LIST)"
+        "VALUES (%s, %s, %s, %s, %s, %s)"
+    )
+    data = (file_name, artist_name, song_name, release_date, extension_type, tag_list)
+
+    try:
+        # Executing the SQL command
+        mycursor.execute(insert_stmt, data)
+
+        # Commit your changes in the database
+        mydb.commit()
+
+        # Get Inserted ID
+        print("ID: ", mycursor.lastrowid)
+
+    except:
+        # Rolling back in case of error
+        mydb.rollback()
+        mycursor.close()
+
+
