@@ -187,3 +187,33 @@ def modify_data():
         logging.exception(error)
 
 
+def search_song():
+    print("List of criteria: artist_name, song_name, extension_type")
+    column1 = input("column1: ")
+    criteria1 = input("criteria1: ")
+    column2 = input("column2: ")
+    criteria2 = input("criteria2: ")
+
+    mycursor = mydb.cursor()
+    try:
+        stmt2 = """select * from songs where %s ='%s' and %s ='%s' """ % (column1, criteria1, column2, criteria2)
+        mycursor.execute(stmt2)
+        records = mycursor.fetchall()
+        print("Total number of results is: ", mycursor.rowcount)
+
+        print("\nPrinting each result")
+        for row in records:
+            print("ID = ", row[0], )
+            print("File Name = ", row[1])
+            print("Artist name = ", row[2])
+            print("Song name  = ", row[3]),
+            print("Release date  = ", row[4]),
+            print("Extension type  = ", row[5]),
+            print("Tag list  = ", row[6])
+
+    except mysql.connector.Error as error:
+        print("Failed to update record to database: {}".format(error))
+        mycursor.close()
+        logging.exception(error)
+
+
