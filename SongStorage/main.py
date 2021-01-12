@@ -256,3 +256,65 @@ def create_save_list():
         mycursor.close()
         logging.exception(error)
 
+def play_song():
+    id_song = input("ID music you want to hear: ")
+
+    mycursor = mydb.cursor()
+    try:
+        stmt = "Select * from songs where id = %s" % (id_song)
+        mycursor.execute(stmt)
+        records = mycursor.fetchall()
+
+        for row in records:
+            print("File Name = ", row[1])
+            rand = ''.join(row[1]) + "." + ''.join(row[5])
+            source = "C:/Users/bubux/PycharmProjects/SongStorage/Storage/"
+            playsound(source+rand)
+
+    except mysql.connector.Error as error:
+        print("Failed to update record to database: {}".format(error))
+        mycursor.close()
+        logging.exception(error)
+
+print("""
+---Welcome to SongStorage---
+Input your number command:
+1. add_song 
+2. delete_song after ID
+3. modify_data after ID
+4. search_song after one or two criteria
+5. create_save_list after one or two criteria
+6. play_song after id
+7. quit_program
+""")
+
+keep_receiving_input = True
+while keep_receiving_input:
+    choice = input()
+    choice = int(choice)
+
+    if choice == 1:
+        add_song()
+        logging.info("add_song")
+    elif choice == 2:
+        delete_song()
+        logging.info("delete_song")
+    elif choice == 3:
+        modify_data()
+        logging.info("modify_data")
+    elif choice == 4:
+        search_song()
+        logging.info("search")
+    elif choice == 7:
+        keep_receiving_input = False
+        logging.info("quit")
+        sys.exit()
+    elif choice == 5:
+        create_save_list()
+        logging.info("create_save_list")
+    elif choice == 6:
+        play_song()
+        logging.info("log_list")
+    else:
+        print("Wrong Choice, try again")
+        logging.info("Wrong Choice, try again")
