@@ -1,2 +1,2 @@
 # Proiect-Python
-Python project for a song player in cmd.
+Python project for a music player in cmd.
